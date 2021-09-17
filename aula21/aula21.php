@@ -37,5 +37,7 @@
     echo "<hr>";
     // $canalObj->escreve();
     $canalObj->escreve2();
-    echo "<br>" . $aulaObj->var3;
+    // echo "<br>" . $aulaObj->var1;
+    // echo "<br>" . $aulaObj->var2;
+    // echo "<br>" . $aulaObj->var3;
 ?>
