@@ -1,0 +1,22 @@
+label {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input[type=text],
+[type=submit] {
+    background-color: rgb(80, 80, 80);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 80, 0);
+    border-radius: 5px;
+    box-shadow: 7px 7px 8px rgb(0, 0, 0);
+    height: 40px;
+}
+
+input[type="text"] {
+    width: 20%;
+}
+
+input[type="password"] {
+    width: 20%;
+}
